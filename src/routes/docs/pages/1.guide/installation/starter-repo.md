@@ -1,6 +1,9 @@
 
-The easiest way to get started with Routify 3 is to run the CLI
+The easiest way to get started with Routify 3 is to run the CLI.
 
 ```
 npx @roxi/routify@next create myapp
+cd ./myapp
+npm install
+npm run dev
 ```
